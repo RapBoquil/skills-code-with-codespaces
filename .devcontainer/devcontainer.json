@@ -9,7 +9,8 @@
      "customizations": {
        "vscode": {
            "extensions": [
-               "GitHub.copilot"
+               "GitHub.copilot",
+               "ms-azuretools.vscode-azurestorage"
            ]
        },
        "codespaces": {
